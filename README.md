@@ -1,4 +1,5 @@
 # World Happiness Report 2024 Data Analysis
+# Note: For dynamic visualizations, please check the project on Kaggle.
 
 ## This project analyzes the World Happiness Report 2024 dataset using various data visualization and analysis techniques.
 
