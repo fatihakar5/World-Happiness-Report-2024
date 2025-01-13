@@ -1,4 +1,9 @@
 # World Happiness Report 2024 Data Analysis
+
+![newplot (1)](https://github.com/user-attachments/assets/4f51db99-bfd6-4099-9fa1-79b39f6830a4)
+
+![newplot](https://github.com/user-attachments/assets/a1632ba5-75f6-4037-a5eb-34d218464def)
+
 # Note: For dynamic visualizations, please check the project on Kaggle.
 
 ## This project analyzes the World Happiness Report 2024 dataset using various data visualization and analysis techniques.
